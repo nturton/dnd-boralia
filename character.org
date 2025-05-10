@@ -1,0 +1,121 @@
+* Outline
+A witch doctor.
+Practices herbalism.
+Gives bad advice.
+Interprets omens.
+Casts curses on her enemies.
+Icky healing methods.
+* Healing
+** F1: Life Boost (Witch/lesson of life) - Fast healing 2
+** F1: Life Link (Oracle/life) - Heal 1d4
+** C1: Stabilize (Any) - Remove dying condition
+** L1: Heal (Divine,Primal) - Heal 1d8 or 1d8+8
+** L1: Soothe (Oracle/life): Heal 1d10+4, +2 bonus
+** L1: Spirit Link (Divine,Occult) - Transfer health.
+* Ancestry options
+** Goblin
+** Hobgoblin
+** Orc
+** Shisk
+* Background options
+** Astrologer (Occultism, Astrology Lore)
+** Astrological Augur (Astrology Lore, Augury spell)
+** Crystal Healer (Nature, Plane of Earth Lore)
+** Curandero (Medicine, Herbalism Lore, Inoculation skill feat)
+** Fortune Teller (Occultism, Fortune-Telling Lore, Oddity Identification skill feat)
+** Herbalist (Nature, Herbalism Lore, Natural Medicine skill feat)
+** Junk Collecter (Crafting, Engineering/Mining Lore, Crafter's Appraisal skill feat)
+** Junker (Athletics, (some terrain) Lore, Hefty Hauler skill feat)
+** Magical Misfit (Arcana, Underworld Lore, Trick Magic Item skill feat)
+** Plant Whisperer (Nature, Plant Lore, Natural Medicine skill feat)
+** Root Worker (Occultism, Herbalism Lore, Root Magic skill feat)
+** Starless One (Occultism, Astrology Lore, Reclaim Destiny action)
+* Class options
+** Oracle (Divine)
+Flexible casting
+Cantrips: 5 known
+Level 1:  2 known, 3 slots
+Revelation spell: Learn one.  Cast once.  Reagin on 10m rest.
+*** Mystery options
+Ancestors: Spells(guidance, ill omen, ghostly carrier) Focus(ancestral touch)
+Ash: Spells(ignition, breathe fire, mist) Focus(ashen wind, incendiary ashes)
+Bones: Spells(void warp, grim tendrils, false vitality) Focus(soul siphon)
+Flames: Spells(ignition, breathe fire, blazing bolt) Focus(incendiary aura)
+Life: Spells(vitality lash, soothe, false vitality) Focus(life link)
+** Witch
+Prepared spells
+Cantrips: 5 known per day, 10 known
+Level 1: 2 slots, 5 known
+Familiar
+*** Patron options
+Baba Yaga (occult, spirit object, chilling spray)
+Devourer of Decay (primal, scrounger's glee, enfeeble)
+Mosquito Witch (primal, buzzing bites, pest form)
+  Buzzing bites is a good hex
+  Makes Stabilize and Heal available
+  Herbalist
+Paradox of Opposites (divine, trade death for life, sleep)
+
+* Goblin, Mosquito Witch, Herbalist
+** Ancestry: Goblin
+Attributes: +Dexterity, +Charisma, +Free, -Wisdom
+Languages: Common, Goblin, +INT more from list.
+Darkvision.
+** Heritage: Dokkaebi Goblin
+Cast figment as an innate occult cantrip at will
+Gain a +1 circumstance bonus to Will saves against illusions.
+** Ancestry feat: Phantom Visage
+A specific alternate form of a Small or Medium humanoid.
+** Background: Herbalist
+Attributes: +CON/WIS, +Free
+Skills: Nature (T), Herbalism Lore (T).
+Skill feat: Natural Medicine
+  
+** Class: Witch
+Key attribute: INT
+Trained in Perception
+Saving Throws: Fortitude (T), Reflex (T), Will (E)
+Skills: Patron skill (T), (3+INT extra) (T)
+Attacks: simple weapons (T), unarmed attacks (T)
+Defenses: Unarmored defense (T)
+Trained in Witch class DC
+Trained in spell attack modifier
+Trained in spell DC
+Attributes: +4 Free
+Patron: Mosquito Witch
+Familiar: Hawk
+Spellcasting: Prepared
+** Familiar
+Animal: Hawk
+Level: Same as mine
+Perception: 3+Level (or INT+Level)
+Acrobatics: 3+Level (or INT+Level)
+Stealth: 3+Level (or INT+Level)
+Other Skills: Level
+HP: 5
+Senses: Low light
+Speed: 25
+Pet abilities:
+  Patron ability (fixed, see below).
+  Flier (fixed): Speed 25.
+  Share Senses: Use familiar senses for 1m every 10m.
+  Independent: 1 action if I don't command.
+Spells: 10 C, 5 L1 + initial lesson
+  Add 2 spells per extra level
+  Can learn from scrolls or other witch's familiar.
+** Hex spells
+Spell 1: Patron's Puppet
+** Patron: Mosquito Witch
+Spell list: Primal
+Patron skill: Nature
+Hex cantrip: Buzzing bites (Cantrip 1)
+  1 action, 1d4 damage, 30ft, 1 creature, 1 per creature per minute
+  -> concealed (due to cast/sustain a hex)
+Familiar learns: Pest form (Spell 1)
+  Turn into a rat.
+Swarm's Heart: Insect swarm provides concealment.
+
+* Goblin, Oracle, Herbalist
+Background: Herbalist
+  Skills: Nature, Herbalism Lore
+  Skill feat: Natural Medicine
