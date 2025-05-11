@@ -5,57 +5,6 @@ Gives bad advice.
 Interprets omens.
 Casts curses on her enemies.
 Icky healing methods.
-* Healing
-** F1: Life Boost (Witch/lesson of life) - Fast healing 2
-** F1: Life Link (Oracle/life) - Heal 1d4
-** C1: Stabilize (Any) - Remove dying condition
-** L1: Heal (Divine,Primal) - Heal 1d8 or 1d8+8
-** L1: Soothe (Oracle/life): Heal 1d10+4, +2 bonus
-** L1: Spirit Link (Divine,Occult) - Transfer health.
-* Ancestry options
-** Goblin
-** Hobgoblin
-** Orc
-** Shisk
-* Background options
-** Astrologer (Occultism, Astrology Lore)
-** Astrological Augur (Astrology Lore, Augury spell)
-** Crystal Healer (Nature, Plane of Earth Lore)
-** Curandero (Medicine, Herbalism Lore, Inoculation skill feat)
-** Fortune Teller (Occultism, Fortune-Telling Lore, Oddity Identification skill feat)
-** Herbalist (Nature, Herbalism Lore, Natural Medicine skill feat)
-** Junk Collecter (Crafting, Engineering/Mining Lore, Crafter's Appraisal skill feat)
-** Junker (Athletics, (some terrain) Lore, Hefty Hauler skill feat)
-** Magical Misfit (Arcana, Underworld Lore, Trick Magic Item skill feat)
-** Plant Whisperer (Nature, Plant Lore, Natural Medicine skill feat)
-** Root Worker (Occultism, Herbalism Lore, Root Magic skill feat)
-** Starless One (Occultism, Astrology Lore, Reclaim Destiny action)
-* Class options
-** Oracle (Divine)
-Flexible casting
-Cantrips: 5 known
-Level 1:  2 known, 3 slots
-Revelation spell: Learn one.  Cast once.  Reagin on 10m rest.
-*** Mystery options
-Ancestors: Spells(guidance, ill omen, ghostly carrier) Focus(ancestral touch)
-Ash: Spells(ignition, breathe fire, mist) Focus(ashen wind, incendiary ashes)
-Bones: Spells(void warp, grim tendrils, false vitality) Focus(soul siphon)
-Flames: Spells(ignition, breathe fire, blazing bolt) Focus(incendiary aura)
-Life: Spells(vitality lash, soothe, false vitality) Focus(life link)
-** Witch
-Prepared spells
-Cantrips: 5 known per day, 10 known
-Level 1: 2 slots, 5 known
-Familiar
-*** Patron options
-Baba Yaga (occult, spirit object, chilling spray)
-Devourer of Decay (primal, scrounger's glee, enfeeble)
-Mosquito Witch (primal, buzzing bites, pest form)
-  Buzzing bites is a good hex
-  Makes Stabilize and Heal available
-  Herbalist
-Paradox of Opposites (divine, trade death for life, sleep)
-
 * Goblin, Mosquito Witch, Herbalist
 ** Ancestry: Goblin
 Attributes: +Dexterity, +Charisma, +Free, -Wisdom
@@ -70,7 +19,6 @@ A specific alternate form of a Small or Medium humanoid.
 Attributes: +CON/WIS, +Free
 Skills: Nature (T), Herbalism Lore (T).
 Skill feat: Natural Medicine
-  
 ** Class: Witch
 Key attribute: INT
 Trained in Perception
@@ -95,7 +43,7 @@ Other Skills: Level
 HP: 5
 Senses: Low light
 Speed: 25
-Pet abilities:
+Pet abilities: (2 familiar, 2 witch)
   Patron ability (fixed, see below).
   Flier (fixed): Speed 25.
   Share Senses: Use familiar senses for 1m every 10m.
@@ -114,8 +62,58 @@ Hex cantrip: Buzzing bites (Cantrip 1)
 Familiar learns: Pest form (Spell 1)
   Turn into a rat.
 Swarm's Heart: Insect swarm provides concealment.
-
-* Goblin, Oracle, Herbalist
-Background: Herbalist
-  Skills: Nature, Herbalism Lore
-  Skill feat: Natural Medicine
+** Attributes
+Goblin: +Dex, +Cha, +Int, -Wis
+Witch: +Int
+Free boosts: +Str, +Con, +Dex, +Int
+Herbalist: +Con, +Int
+Str +1  Dex +2  Con +2  Int +4  Wis -1  Cha +1
+** Skills
+Herbalist: Nature (T), Herbalism Lore (T).
+Witch: Patron skill (T), (3+INT extra) (T)
+Patron skill: Nature
+  -> Performance
+Extra skills:
+  Arcana
+  Crafting
+  Deception
+  Intimidation
+  Occultism
+  Stealth
+  Survival
+** Spells
+*** Cantrips
+Stabilize
+Rousing Splash
+Root Reading
+Gouging Claw (2A, 2d6 slashing/piercing, 2 persistent bleed, touch)
+Electric Arc (2A, 2d4 electric, 30 ft, 2 targets)
+Slashing Gust (2A, 2d4 slashing, 1d4 persistent bleed, ranged)
+Gale Blast (2A, 1d6 bludgeoning, pushed 5 ft, 5 ft emanation)
+Know the Way (Navigation)
+Draw Moisture
+Glass Shield (1A, +1 AC)
+Buzzing Bites (Hex - extra)
+*** Normal
+Mystic Armor (2A, +1 AC, all day)
+Acidic Burst (2A, 2d6 acid, 5-foot emanation)
+Pummeling Rubble (2A, 2d4 bludgeoning, 15 ft cone)
+Pest Form (patron)
+*** Focus
+Patron's Puppet
+** Equipment
+Explorer's clothing (1 sp)
+Dagger (2 sp)
+Light mace (4 sp)
+Sling with 20 bullets (nil)
+Adventurer's pack (1 gp 5 sp)
+  a backpack
+  a bedroll
+  10 pieces of chalk
+  flint and steel
+  50 feet of rope
+  2 weeks' rations
+  soap
+  5 torches
+  a waterskin.
+Cookware (1 gp)
