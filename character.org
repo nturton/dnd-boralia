@@ -2,9 +2,12 @@
 A witch doctor.
 Practices herbalism.
 Gives bad advice.
-Interprets omens.
+Interprets omens (Root Reading)
+Tricks enemies (Figment)
 Casts curses on her enemies.
-Icky healing methods.
+Crafts potions (Magical crafting Feat 2).
+Flies on a broomstick (Witch's Broom Feat 12).
+Icky healing methods (Healing Plaster).
 * Goblin, Mosquito Witch, Herbalist
 ** Ancestry: Goblin
 Attributes: +Dexterity, +Charisma, +Free, -Wisdom
