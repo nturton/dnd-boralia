@@ -1,0 +1,39 @@
+#! /usr/bin/python3
+import json
+
+class app():
+  def decode_save_ids(self):
+    save_ids = self.__contents['saveIDs']
+    self.__save_ids = map(json.loads, save_ids)
+
+  def decode_saves(self):
+    saves = self.__contents['saves']
+    self.__saves = dict((k,json.loads(v)) for k,v in saves.items())
+
+  def show_save_ids(self):
+    for i,d in enumerate(self.__save_ids):
+      print("Save ID %d" % i)
+      print("  Name:       " + d['characterName'])
+      print("  ClassLevel: " + d['classLevel'])
+      print("  Timestamp:  %d" % d['timestamp'])
+      print("  Web ID:     " + d['webID'])
+      print()
+
+  def show_saves(self):
+    for sid,d in sorted(self.__saves.items()):
+      print("Save ID %s" % sid)
+      for k,v in sorted(d.items()):
+        print("  %s: %r" % (k,v))
+
+  def run(self):
+    filename = "pathbuilderexport.pbex"
+    fh = open(filename)
+    c = json.load(fh)
+    self.__contents = c
+    self.__portraits = c['portraits']
+    self.decode_save_ids()
+    self.decode_saves()
+    self.show_save_ids()
+    self.show_saves()
+
+app().run()

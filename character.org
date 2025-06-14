@@ -4,7 +4,7 @@ Practices herbalism.
 Gives bad advice.
 Interprets omens (Root Reading)
 Tricks enemies (Figment)
-Casts curses on her enemies.
+Casts curses on her enemies (Buzzing bites, Goblin pox).
 Crafts potions (Magical crafting Feat 2).
 Flies on a broomstick (Witch's Broom Feat 12).
 Icky healing methods (Healing Plaster).
@@ -87,36 +87,159 @@ Extra skills:
 ** Spells
 *** Cantrips
 Stabilize
+
+  “Hold still, hold still—death’s breath is near, but I’ll gum it
+  shut.”
+
+  Smears ash and spit across the wound in a strange pattern, chanting
+  in a half-sung goblin dirge.
+
+Healing Plaster
+
+  “Bit of mud, dash of moss, and a slug’s blessing—hold this to your
+  skin and groan a little.”
+
+  Scoops mud from a pouch, slaps it on like ointment, muttering
+  something about swamp mothers.
+
 Rousing Splash
+
+  “Wake up, twitchy! Here’s some river-ghost water to get your blood
+  prickling!”
+
+  Flings a rag dripping with herb-soaked water that sizzles like it’s
+  alive.
+
 Root Reading
-Gouging Claw (2A, 2d6 slashing/piercing, 2 persistent bleed, touch)
+
+  “Let’s see what the dirt remembers...”
+
+  Crushes a root between her palms and sniffs the juice, eyes going
+  milky as she listens to the earth.
+
 Electric Arc (2A, 2d4 electric, 30 ft, 2 targets)
-Slashing Gust (2A, 2d4 slashing, 1d4 persistent bleed, ranged)
-Gale Blast (2A, 1d6 bludgeoning, pushed 5 ft, 5 ft emanation)
-Know the Way (Navigation)
+
+  “Spark-toothed sky bites again!”
+
+  Claps her hands with a cackle, drawing lightning through the air like a crooked smile.
+
+  "Crack-crack—sky bite's back!"
+
+  "Here’s the storm-teeth, and they’re hungry!"
+
+  "Zzzap! That’s for touchin’ my friends!"
+
+  "Little jolt for the legs, little kiss for the bones—hold still!"
+
+  "Borrowed this from a storm that died angry!"
+
+  "Hear that buzz? That’s the sound of your luck runnin' off!"
+
+**** Unprepared
+Detect Magic
+Detect Metal
 Draw Moisture
-Glass Shield (1A, +1 AC)
-Buzzing Bites (Hex - extra)
+Gouging Claw (2A, 2d6 slashing/piercing, 2 persistent bleed, touch)
+Know the Way (Navigation)
 *** Normal
 Mystic Armor (2A, +1 AC, all day)
-Acidic Burst (2A, 2d6 acid, 5-foot emanation)
-Pummeling Rubble (2A, 2d4 bludgeoning, 15 ft cone)
-Pest Form (patron)
-*** Focus
-Patron's Puppet
+
+  “Coat yourself in ghost-skin and owl feathers—ain’t nothing sharp
+  getting through that.”
+
+  Snaps her fingers and coats herself in flickering frost-runes that
+  vanish beneath the skin.
+
+Heal
+
+  “No, no, don’t go dying yet—I ain’t finished yelling at you.”
+
+  Presses muddy fingers to a wound, a faint warmth pulsing out like
+  breath through frost.
+
+**** Unprepared
+Fear
+Goblin Pox
+Gust of Wind
+Mending
+*** Focus cantrips
+Clinging Ice
+
+  “Freeze, twitchy thing! Let the snow choke your legs!”
+
+  Points with a clawed finger; shards of dirty ice grow from nowhere
+  and cling like biting vines.
+
+  "Snow's got claws, and she don’t let go!"
+
+  "Dance in frost, bleed like spring sap!"
+
+  "Stick, sting, snap! Let the cold eat your ankles!"
+
+  "This ice remembers where you stepped—now it bites back!"
+
+  "Fall asleep, little beetle. Winter’s here to tuck you in."
+
+  "Your feet don’t look busy—let’s fix that with a little freeze."
+
+Phase Familiar
+
+  “Talonface, don’t let the world hold you down—go ghosty for a bit.”
+
+  Blows white powder into the air around her hawk, who flickers and
+  vanishes with a shimmer like heat haze turned cold.
+
 ** Equipment
 Explorer's clothing (1 sp)
 Dagger (2 sp)
 Light mace (4 sp)
 Sling with 20 bullets (nil)
-Adventurer's pack (1 gp 5 sp)
-  a backpack
-  a bedroll
+Backpack
+  Basic crafter's book
+  1 bedroll
   10 pieces of chalk
-  flint and steel
+  20 Candles
+  1 flint and steel
+  1 Fishing tackle
+  1 Folding ladder
+  1 Grappling hook
+  2 Weeks' Rations
+  1 Repair kit
   50 feet of rope
-  2 weeks' rations
-  soap
-  5 torches
-  a waterskin.
+  1 Soap
+  1 Ten-foot pole
+  5 Torches
+  1 Waterskin.
 Cookware (1 gp)
+
+*** The Frostmourn idol
+**** “The White God Who Sat Down and Froze”
+They say... back in the plague times, when gods were rottin’ like old
+turnips, there was one what didn’t run or scream. She just... sat down
+in the snow. That’s all. Sat and waited. Didn’t say a word, didn’t
+blink, just froze solid while the sky was screamin’. That’s what the
+idol is, see? Her shape—carved by wind and frost and maybe goblins
+with cold fingers. They say if you listen to it real careful, like
+when you’re shiverin’ just before sleep, you can hear her
+breathin’. Still waitin’. Maybe for someone clever. Or dumb.
+
+**** Frostmourn and the Bone-Drinkers
+
+Long time back, ‘fore my grandrat’s grandrat, there was a warren that
+got too greedy. Dug deep, tried eatin’ the roots what don’t die in
+winter. Started findin’ bones, still warm. Found the idol sittin’ in a
+hole, wearin snow like a crown. First goblin that touched it turned to
+ice. Second one turned to something else. But the third one? They say
+she whispered to it... an’ it whispered back. That goblin led the
+warren through a hundred winters, till the sun stopped risin’. Then
+she walked into the snow and didn’t come back. That’s how it goes.
+
+**** The Idol’s Teeth
+
+They don’t tell you this in temples with fire and gold, but cold gods
+bite hardest. That’s what the old crone said, before her tongue froze
+to her own teeth. The idol? It don’t bless you. It don’t save you. It
+remembers you. Like a wound. If you feed it warmth—blood, breath,
+love, whatever—it keeps it. Stores it away in a little
+frost-pocket. And maybe, one day, it gives it back. Or maybe it eats
+you whole and spits out your bones, still smilin’.
