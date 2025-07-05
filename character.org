@@ -8,16 +8,34 @@ Casts curses on her enemies (Buzzing bites, Goblin pox).
 Crafts potions (Magical crafting Feat 2).
 Flies on a broomstick (Witch's Broom Feat 12).
 Icky healing methods (Healing Plaster).
-* Goblin, Mosquito Witch, Herbalist
+* Goblin, Silence in Snow, Herbalist
 ** Ancestry: Goblin
 Attributes: +Dexterity, +Charisma, +Free, -Wisdom
 Languages: Common, Goblin, +INT more from list.
 Darkvision.
-** Heritage: Dokkaebi Goblin
-Cast figment as an innate occult cantrip at will
-Gain a +1 circumstance bonus to Will saves against illusions.
-** Ancestry feat: Phantom Visage
-A specific alternate form of a Small or Medium humanoid.
+** Heritage: Irongut Goblin
+You gain a +2 circumstance bonus to saving throws against afflictions,
+against gaining the sickened condition, and to remove the sickened
+condition. When you roll a success on a Fortitude save affected by
+this bonus, you get a critical success instead. All these benefits
+apply only when the affliction or condition resulted from something
+you ingested.
+
+You can eat and drink things when you are sickened.
+** Ancestry feat: Junk Tinker
+You can make useful tools out of even twisted or rusted scraps. When
+using the Crafting skill to Craft, you can make level 0 items,
+including weapons and armor, out of junk. This reduces the Price to
+one-quarter the usual amount but always results in a shoddy
+item. Shoddy items normally give a penalty, but you don't take this
+penalty when using shoddy items you made (nor does the worse check
+penalty of shoddy armor you made apply to you).
+
+You can also incorporate junk to save money while you Craft any
+item. This grants you a discount on the item as if you had spent 1
+additional day working to reduce the cost, but the item is obviously
+made of junk. At the GM's discretion, this might affect the item's
+resale value depending on the buyer's tastes.
 ** Background: Herbalist
 Attributes: +CON/WIS, +Free
 Skills: Nature (T), Herbalism Lore (T).
@@ -33,7 +51,7 @@ Trained in Witch class DC
 Trained in spell attack modifier
 Trained in spell DC
 Attributes: +4 Free
-Patron: Mosquito Witch
+Patron: Silence in Snow
 Familiar: Hawk
 Spellcasting: Prepared
 ** Familiar
@@ -55,16 +73,21 @@ Spells: 10 C, 5 L1 + initial lesson
   Add 2 spells per extra level
   Can learn from scrolls or other witch's familiar.
 ** Hex spells
-Spell 1: Patron's Puppet
-** Patron: Mosquito Witch
+Spell 1: Phase Familiar
+** Patron: Silence in Snow
 Spell list: Primal
 Patron skill: Nature
-Hex cantrip: Buzzing bites (Cantrip 1)
-  1 action, 1d4 damage, 30ft, 1 creature, 1 per creature per minute
-  -> concealed (due to cast/sustain a hex)
-Familiar learns: Pest form (Spell 1)
-  Turn into a rat.
-Swarm's Heart: Insect swarm provides concealment.
+
+Lesson of Winter's Chill Your patron taught you the power of winter
+firsthand by subjecting you to frost and snow.
+  You learn the clinging ice hex cantrip.
+  Your familiar learns gust of wind.
+
+Familiar of Freezing Rime Your familiar is cold to the touch, its
+breath always visible.  When you Cast or Sustain a hex, you can cause
+ice to form in a 5-foot burst centered on a square of your familiar's
+space.  Those squares are difficult terrain until the start of your
+next turn.
 ** Attributes
 Goblin: +Dex, +Cha, +Int, -Wis
 Witch: +Int
