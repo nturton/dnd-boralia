@@ -243,6 +243,7 @@ Phase Familiar
 
 ** Equipment
 Explorer's clothing (1 sp)
+  Added potency rune on Pathbuilder for Mystic Armor
 Dagger (2 sp)
 Light mace (4 sp)
 Sling with 20 bullets (nil)
