@@ -8,7 +8,7 @@ Casts curses on her enemies (Buzzing bites, Goblin pox).
 Crafts potions (Magical crafting Feat 2).
 Flies on a broomstick (Witch's Broom Feat 12).
 Icky healing methods (Healing Plaster).
-* Goblin, Silence in Snow, Herbalist
+* Level 1
 ** Ancestry: Goblin
 Attributes: +Dexterity, +Charisma, +Free, -Wisdom
 Languages: Common, Goblin, +INT more from list.
@@ -37,9 +37,19 @@ additional day working to reduce the cost, but the item is obviously
 made of junk. At the GM's discretion, this might affect the item's
 resale value depending on the buyer's tastes.
 ** Background: Herbalist
+As a formally trained apothecary or a rural practitioner of folk
+medicine, you learned the healing properties of various herbs.
+
+You’re adept at collecting the right natural cures in all sorts of
+environments and preparing them properly.
+Choose two attribute boosts. One must be to Constitution or
+Wisdom, and one is a free attribute boost.
+You’re trained in the Nature skill and the Herbalism Lore
+skill. You gain the Natural Medicine skill feat.
+
 Attributes: +CON/WIS, +Free
 Skills: Nature (T), Herbalism Lore (T).
-Skill feat: Natural Medicine
+*** Skill feat: Natural Medicine
 ** Class: Witch
 Key attribute: INT
 Trained in Perception
@@ -109,7 +119,7 @@ Extra skills:
   Survival
 ** Spells
 *** Cantrips
-Stabilize
+**** Stabilize
 
   “Hold still, hold still—death’s breath is near, but I’ll gum it
   shut.”
@@ -117,7 +127,7 @@ Stabilize
   Smears ash and spit across the wound in a strange pattern, chanting
   in a half-sung goblin dirge.
 
-Healing Plaster
+**** Healing Plaster
 
   “Bit of mud, dash of moss, and a slug’s blessing—hold this to your
   skin and groan a little.”
@@ -125,7 +135,7 @@ Healing Plaster
   Scoops mud from a pouch, slaps it on like ointment, muttering
   something about swamp mothers.
 
-Rousing Splash
+**** Rousing Splash
 
 Casts Rousing Splash.
 Range 60 feet; Targets 1 creature
@@ -143,14 +153,14 @@ the DC reduction from appropriate assistance.
   Flings a rag dripping with herb-soaked water that sizzles like it’s
   alive.
 
-Root Reading
+**** Root Reading
 
   “Let’s see what the dirt remembers...”
 
   Crushes a root between her palms and sniffs the juice, eyes going
   milky as she listens to the earth.
 
-Electric Arc (2A, 2d4 electric, 30 ft, 2 targets)
+**** Electric Arc (2A, 2d4 electric, 30 ft, 2 targets)
 
 Casts Electirc Arc.
 Range 30 feet; Targets 1 or 2 creatures
@@ -176,11 +186,18 @@ save.
   "Hear that buzz? That’s the sound of your luck runnin' off!"
 
 **** Unprepared
-Detect Magic
-Detect Metal
-Draw Moisture
-Gouging Claw (2A, 2d6 slashing/piercing, 2 persistent bleed, touch)
-Know the Way (Navigation)
+***** Detect Magic
+***** Caustic Blast: Fling a glob of acid that splashes a small area.
+Traditions arcane, primal
+Range 30 feet; Area 5-foot burst
+Defense basic Reflex
+You fling a large glob of acid that immediately detonates,
+spraying nearby creatures. Creatures in the area take 1d8
+acid damage with a basic Reflex save; on a critical failure, the
+creature also takes 1 persistent acid damage.
+***** Draw Moisture
+***** Gouging Claw (2A, 2d6 slashing/piercing, 2 persistent bleed, touch)
+***** Know the Way (Navigation)
 *** Normal
 Mystic Armor (2A, +1 AC, all day)
 
@@ -241,7 +258,107 @@ Phase Familiar
   Blows white powder into the air around her hawk, who flickers and
   vanishes with a shimmer like heat haze turned cold.
 
-** Equipment
+* Level 2
+** Witch feat: Cauldron
+*** Description (PC1 p.186)
+You can brew magic in your cauldron, creating useful magical
+concoctions. You can use the Craft activity to create oils and
+potions. You immediately gain the formulas for four common 1st-level
+oils or potions. At 4th level and every 2 levels beyond that, you gain
+the formula for a common oil or potion of that level or lower (a
+4th-level potion if you’re 4th level, a 6th-level potion if you’re 6th
+level, and so on). If you have a familiar, you can have your familiar
+learn these formulas rather than storing them in a formula book. Your
+familiar can learn new formulas in the same way it learns new spells,
+and these formulas are transferred from a slain familiar to a new
+familiar in the same way spells are.
+
+During your daily preparations, you can create one temporary oil or
+potion using a formula you know. If you have master proficiency in
+spell DC, you can create a batch of two temporary oils or potions
+during your daily preparations, and if you have legendary proficiency,
+you can create a batch of three. Any items you create this way become
+inert bottles of liquid the next time you make your daily
+preparations, and any remaining effects of the temporary items end. A
+temporary oil or potion has no value.
+*** Oils and potions
+  4 common level 1 formulas:
+  * Gecko potion
+  * Nectar of purification
+  * Potion of emergency escape
+    Ration tonic
+  * Healing potion 1d8 HP
+    Oil of unlife
+    Potion of retaliation
+    Potion of shared memories
+    Shielding salve
+  
+** Skill feat:
+Assurance - Wait for level 3.
+  Result is 10+(2+level)=14
+Arcane Sense
+Battle Medic
+** 2 Spells
+  Leaden steps
+  Protector tree
+* Plans
+** Feat 3: Assurance.  Level 3 general feat.
+This gives certain success when treating wounds.  Result is 10+2+3=15.
+** Feat 2: Herbalist dedication. Level 4 witch feat.
+*** Description (PC2 p.202)
+You can create natural remedies.  You gain the advanced alchemy
+benefits (page 174).  You can use advanced alchemy to create 4
+alchemical consumables with the healing trait, though the number is
+reduced by 2 if you didn’t make your daily preparations in the
+wilderness. These consumables are called your herbal items. You
+remember herbal item formulas and don’t need a formula book for them.
+
+You become an expert in Nature and can use Nature instead
+of Crafting to Craft alchemical consumables with the healing
+trait. You don’t need to be trained in Crafting to do so, and you
+can use healer’s tools instead of alchemist’s tools.
+
+*** Items
+Level 1, Antidote (lesser): +2 fort save against poison.
+Level 1, Antiplague (lesser): +2 fort save against disease.
+Level 1, Elixir of life (minor): +1d6 HP, +1 fort save against disease/poison.
+Level 2, Bottled Catharsis (Minor): Counteract emotion effect.
+Level 2, Surging Serum (Minor): Counteract clumsy/enfeebled.
+Level 4, Bottled Catharsis (Lesser): Counteract emotion effect.
+Level 4, Surging Serum (Lesser): Counteract clumsy/enfeebled.
+
+*** Advanced alchemy benefits (PC2 p.174)
+You gain the Alchemical Crafting feat (Player Core 252) if you don’t
+already have it.  In addition, you gain advanced alchemy, which allows
+you to create a certain number of infused alchemical consumables each
+day during your daily preparations without the normal cost or time
+expenditure, as described on page 58. If you gain advanced alchemy
+from more than one source, use the highest number of alchemical
+consumables per day rather than adding them together, but you can make
+items of any type allowed by any of your advanced alchemy
+abilities. For instance, Herbalist Dedication lets you create 4
+alchemical consumables with the healing trait, and Poisoner Dedication
+lets you create four alchemical poison consumables. If you had both
+feats, you could create 4 total consumables, but they could be any
+combination of healing and poison items.
+*** Alchemical Crafting
+**** Description
+You can use the Craft activity to create alchemical items.  When you
+select this feat, you immediately add the formulas for four common
+1st-level alchemical items to your formula book (page 288).
+**** Items
+Lesser Alchemist's fire: 1d8 fire +1 persistent +1 splash
+Lesser Acid flask: 1d6 persistent acid + 1 acid splash
+Lesser antidote: +2 item bonus to fortitude saves against poison
+Lesser antiplague: +2 item bonus to fortitude saves against disease
+Blasting stone: 1d4 sonic damage, 1 sonic splash
+Minor elixir of life: 1d6 HP, +1 bonus to fortitude saves for disease/poison
+Glow rod
+Lesser smoke ball
+Matchstick
+
+
+* Equipment
 Explorer's clothing (1 sp)
   Added potency rune on Pathbuilder for Mystic Armor
 Dagger (2 sp)
@@ -249,6 +366,7 @@ Light mace (4 sp)
 Sling with 20 bullets (nil)
 Backpack
   Basic crafter's book
+    Formulas (page 294) for Crafting the 0-level common items in this chapter.
   1 bedroll
   10 pieces of chalk
   20 Candles
@@ -264,8 +382,9 @@ Backpack
   5 Torches
   1 Waterskin.
 Cookware (1 gp)
+Crying angel pendant
 
-*** The Frostmourn idol
+* The Frostmourn idol
 **** “The White God Who Sat Down and Froze”
 They say... back in the plague times, when gods were rottin’ like old
 turnips, there was one what didn’t run or scream. She just... sat down

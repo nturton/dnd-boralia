@@ -125,6 +125,7 @@ Before long it had melted the ice and Mr Whispers greeted us.
 314 + 230 = 544 XP
 
 * Session 4
+** At camp
 We sold some of our loot.  We identified one of our items as a dancing
 scarf.  I kept that for use.
 
@@ -142,8 +143,10 @@ thin but different from the rest of the ice.
 Mr Whispers tapped on the ice and nothing happened.  He said that it
 was enchanted and this way is closed for now.
 
+** Exploring the passageway
+
 Some of the NPCs were opening up another passageway into the ice.
-They called us over.  We followed a passageway a short way where it
+They called us over.  We followed a passageway a short way and then it
 forked.  Both ways seemed to be blocked.  Mr Whispers knocked on one
 of the rocks and it split in two.
 
@@ -161,9 +164,11 @@ failed.
 Snazzle Tooth said "I don't suppose you could open these doors, could
 you?"  We saw some strange creatures on the ceiling which we had been
 interpreting as stones.  They spoke in a strange language which we
-couldn't understand, but I used the dancing scarf to and did a dance
-to try to indicate that we wanted them to open the doors.  After a
-little while, they did so.
+couldn't understand, but I used the dancing scarf and did a dance to
+try to indicate that we wanted them to open the doors.  After a little
+while, they did so.
+
+** Ruined rooms
 
 We went into the next room and saw a centipede in there, so we decided
 to attack it.  We got into a fight and three others joined it.  We
@@ -179,17 +184,113 @@ nest, but managed to get my leg our without them attacking.
 To the North was a doorway with a corridor beyond, but we couldn't get
 there because of the centipede nest.
 
+** The mist room
+
 We went back to an earlier corridor and explored to the North.  There
 was a door with mist coming from its keyhole.  We opened the door and
 Snazzle Tooth went in.  In the middle was a machine which was
 whirling.
 
+I went in and the mist seemed disorienting, so I told the others to
+tie a rope onto the door handle so we could find our way out.
+
 Snazzle Tooth jammed a crowbar into the machine.  There were some
 sigil stones in there and we tried to get them out.  After several
 attempts, we managed to get some sigils out of the machine.  Two of
-the small stone creatures attacked us, but we ign
+the small stone creatures attacked us, but we ignored them.  When the
+machine stopped, one of the stone creatures collapsed on the ground.
 
 544 + 190 = 734XP
 
+We followed a corridor and entered another room.
+
+* Session 5
+
+Our vision went blurry and we found ourselves in the entry hall again.
+We saw some rune giants standing, looking at the doors.  The doors
+burst open and some air elementals burst in.  The giants fired at the
+
+Elves streamed in.  Stab the giants.
+
+Rushing down the halls.
+
+Enter a throne room.
+
+Giant sitting on the throne.  Stands, picks up a hammer and swings it.
+
+The giant is tough, but the elves are
+
+Elf leaves their spear impaling the giant to the throne.  The elf
+takes the crown of stone from the giant and lifts it.
+
+We returned to our senses in slime and mess.  We are coated with green
+goo and mushrooms growing out of it.
+
+Walker jumped into the pool.  The water had a skin on it.  He had
+spotted something and swam down to get it but returned empty handed.
+
+I tied a rope around my waist, jumped in and swam down.  I managed to
+get hold of a rune stone and brought it back up.
+
+I cast detect magic.  There was a general suffusion of magic over the
+fungus.  The fungus seems to weave a web of illusion by sending spores
+into the air.
+
+I cleared an area of the pool and it seemed that the bottom was further down.
+
+We searched the room and found two more rune stones.
+
+We went further down the corridor and Snazzle pushed a door open.
+
+** Throne room
+
+On the throne was a large skeleton with a silver spear protruding from
+its chest.  There were cobwebs all over the room.  I crept towards the
+throne and a large spider dropped on me from the ceiling.
+
+It spun a web around me and carried me up towards the ceiling.
+Suddenly I was falling and snazzle poured some healing potion into my
+mouth.  I healed myself and cast clinging ice at the spider.
+
+Walker and Welly were fighting another spider.  It was a tough fight,
+but we managed to defeat both spiders.
+
+I took the spear from the chest of the giant.  I threw it at the
+spider corpse and it pierced the armor easily.  It then glowed for a
+moment, disappeared and reappeared in my hand.  It was inscribed with
+runes of potency and returning.
+
+There was a banner when we entered the room, but it got set of fire
+during the fight.  The banner staff had runes on it.  I sensed that it
+was one of a pair.
+
+Staff of protection.  Shield, Alarm, Mystic Armor.
+
+** Dusty cave
+
+We went along a corridor to the north of the fog room.  The walls were
+partly collapsed.  We found ourselves in a dusty cave with bones
+scattered around.  We heard a buzzing or humming sound.
+
+We found a crawler with number 115 on it.
+
+734XP + 240XP = 974XP
+
+* Session 6
+** Dusty cave
+
+We fought the skeltons and defeated them.
+
+Beyond was the crawler which was buzzing with electricity.  Snazzle
+jumped up in through the hatch and threw some rubber tracks out to let
+us get up without getting shocked.
+
+There was a box was made of heart wood with a picture of a rook with a
+lightning strike.  That's the symbol of the bleak tower.  We suspect
+the skeletons were the original crew of the 115.
+
+974XP + 140XP + 80XP = 1194XP
+
+* Session 7
 
 
