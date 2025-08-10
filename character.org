@@ -359,11 +359,14 @@ Matchstick
 
 
 * Equipment
-Explorer's clothing (1 sp)
-  Added potency rune on Pathbuilder for Mystic Armor
-Dagger (2 sp)
-Light mace (4 sp)
-Sling with 20 bullets (nil)
+Readied:
+  Explorer's clothing (1 sp)
+    Added potency rune on Pathbuilder for Mystic Armor
+  Dagger (2 sp)
+  Light mace (4 sp)
+  Sling with 20 bullets (nil)
+  Crying angel pendant
+
 Backpack
   Basic crafter's book
     Formulas (page 294) for Crafting the 0-level common items in this chapter.
@@ -381,8 +384,12 @@ Backpack
   1 Ten-foot pole
   5 Torches
   1 Waterskin.
-Cookware (1 gp)
-Crying angel pendant
+  1 Empty Vial
+  6 sets of ingredients for healing potions.
+  1 temporary healing potion
+
+At camp:
+  Cookware (1 gp)
 
 * The Frostmourn idol
 **** “The White God Who Sat Down and Froze”
