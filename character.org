@@ -188,7 +188,8 @@ save.
 **** Unprepared
 ***** Detect Magic
 ***** Caustic Blast: Fling a glob of acid that splashes a small area.
-Traditions arcane, primal
+Casts Caustic Blast
+
 Range 30 feet; Area 5-foot burst
 Defense basic Reflex
 You fling a large glob of acid that immediately detonates,
@@ -220,7 +221,7 @@ Goblin Pox
 Gust of Wind
 Mending
 *** Focus cantrips
-Clinging Ice
+**** Clinging Ice
 
 Casts Clinging Ice.
 Range 30 feet; Targets 1 creature
@@ -251,7 +252,7 @@ Critical Failure The target takes double damage and a –10-foot circumstance pe
 
   "Your feet don’t look busy—let’s fix that with a little freeze."
 
-Phase Familiar
+**** Phase Familiar
 
   “Talonface, don’t let the world hold you down—go ghosty for a bit.”
 
