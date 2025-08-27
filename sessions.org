@@ -375,3 +375,80 @@ cave and found a skelton with a wand and backpack.  It had 80 gold
 which we distributed.
 
 464XP + 30XP = 494XP
+
+* Session 9
+
+We explored one passage which seemed to take us back to the crater
+with the camp in, but there was a barrier which prevented us from
+getting out that way.
+
+We went back to the chasm and snazzle jumped across, or at least tried
+to.  She used a pole to get more height but it slipped and she ended
+up falling down and landed on a ledge below the top of the chasm.
+
+I jumped across without problem.  I tied a rope around me, dropped
+down the far side and threw the rope over to snazzle.
+
+For crossing the chasm:
+  494XP + 80XP = 574XP
+
+There were some marks in the rock which looked like writing, but it
+turned out they were just cracks.
+
+We followed a passageway and ended up in a large cave with rocks and
+snow.  We went a small way into the cave and suddenly some hands
+jumped up out of the snow and grabbed me.
+
+The rocks kept sinking into the snow and hands kept jumping out.  We
+struggled and eventually made our way across.
+
+For crossing the cave:
+  574XP + 80XP = 654XP
+
+We followed another passageway and it opened out into another cave
+which seems to be a dead end.  In the middle was a strange spherical
+device.
+
+After an hour of studying it, I figured out it had these controls:
+  Slider: Cold->Hot
+  Slider: Calm->Stormy
+  Buttons: Water, light, life, warmth
+
+I turned the temperature up part of the way and the machine started to
+judder and shake.
+
+I pressed the warmth button which lit up and then went out.
+
+I moved the stormy slider to calm and it went part way and got stuck.
+Snazzle used a tool to extract a rock from the slider.  I slid the
+slider to calm and the machine made noises for a bit and then
+everything went very quiet.
+
+I pressed the light button.  It flickered a bit, but didn't seem to
+turn on.
+
+I investigated the things we found on the wizard's body.  It had a
+staff, broken wand, note book brass with a clasp lock, mostly blank
+tablet made out of stone with a runic inscription around the edge.
+
+When I pressed the metal rod which Lirion had found against the
+tablet, a white dot appeared and then disappeared after a moment.  I
+then drew a circle, which then disappeared after a moment.  Then some
+words appeared in common: Who are you and how did you get the slate?
+I tried to write a response, but it didn't seem to work.  I concluded
+that it needed time to recharge.
+
+Snazzle opened the note book by breaking the clasp off.  It turned out
+to be a journal and one of the entries seemed to be talking about the
+machine:
+
+  The control sequence should be: Storm-rune to neutral position, then
+  Cold-bringer to minimal setting, then activate the warming glyphs in
+  sequence: Sun, Thaw, Spring-water, Growth. At least I think so. The
+  translation is... difficult. My head won't stay clear.
+
+I think:
+  Sun=light
+  Thaw=Warmth
+  Spring-water=water
+  Growth=life
