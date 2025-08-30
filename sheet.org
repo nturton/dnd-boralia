@@ -53,15 +53,15 @@ Pet-Ability: Freezing Rime
 ** Familiar (PC-181, PC-212)
 Animal: Hawk
 Pet-Level: Same as mine
-Pet-Perception: 3+Level (or INT+Level)
-Pet-Acrobatics: 3+Level (or INT+Level)
-Pet-Stealth: 3+Level (or INT+Level)
+Pet-Perception: max(3,Int) + Level
+Pet-Acrobatics: max(3,Int) + Level
+Pet-Stealth: max(3,Int) + Level
 Pet-Other Skills: Level
 Pet-HP: 5
 Pet-Senses: Low light
 Pet-Speed: 25
-Pet-Abilities: (2 familiar, 2 witch)
-  Patron ability (fixed, see below).
+Pet-Abilities: (2 familiar, 2 witch, increase at levels 6, 12, 18)
+  Patron ability (fixed, see above).
   Flier (fixed): Speed 25.
   Share Senses: Use familiar senses for 1m every 10m.
   Independent: 1 action if I don't command.
@@ -91,3 +91,28 @@ Con: +2
 Int: +4
 Wis: -1
 Cha: +1
+* Level 2
+** Witch
+Skill feat: Arcane Sense
+Witch feat: Cauldron
+Spell 1: Leaden steps
+Spell 1: Protector tree
+** Skill Feat: Arcane Sense
+Cast detect magic at will.
+** Witch Feat: Cauldron
+Learn 4 common 1st-level oils/potions.
+At levels 4, 6, 8..., learn 1 common oil/potion of that level or lower.
+Create 1 temporary oil/potion per day.  Increases with spell DC.
+Potion: Gecko potion
+Potion: Nectar of purification
+Potion: Potion of emergency escape
+Potion: Healing potion 1d8 HP
+* Level 3
+** Witch:
+2nd-rank spells
+General feat: Assurance(Nature)
+Skill increase: Nature(E)
+Spell 2: Acid Grip
+Spell 2: Sudden Blight
+** General feat: Assurance(Nature)
+Result: 10 + Level + 4(E) = 15.

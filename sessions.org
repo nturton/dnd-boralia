@@ -434,7 +434,7 @@ tablet made out of stone with a runic inscription around the edge.
 When I pressed the metal rod which Lirion had found against the
 tablet, a white dot appeared and then disappeared after a moment.  I
 then drew a circle, which then disappeared after a moment.  Then some
-words appeared in common: Who are you and how did you get the slate?
+words appeared in common: "Who are you and how did you get the slate?"
 I tried to write a response, but it didn't seem to work.  I concluded
 that it needed time to recharge.
 
@@ -452,3 +452,68 @@ I think:
   Thaw=Warmth
   Spring-water=water
   Growth=life
+
+* Session 10
+
+Slate of distant letters.
+
+There is a small circular hole at the bottom of the machine.  Too
+small for a little finger.
+
+I slide the calm/storm rune to the centre.
+I slide cold rune to the minimal position.
+I press the thaw button.  The rune flashes brightly then goes out.
+I press the light button.  The rune flashes brightly then goes out.
+I press the warmth button.  The rune flashes brightly then goes out.
+I press the water button.  The rune flashes brightly then goes out.
+I press the life button.  The rune flashes brightly then goes out.
+
+The two scouts and Lirion came down the tunnel.
+
+They told us "Mr Whispers said you'd need this."  They showed us a
+small intricate device which looked like it would fit in the hole in
+the machine.
+
+Snazzle pushed the device into the machine.
+
+I press the light button.  The rune flashes brightly then goes out.
+
+Snazzle twisted the handle.  A thrumming noise started and lots or
+runes lit up.
+
+I press the light button.  The rune lit up and stays lit.  The room
+lit up.
+
+I press the warmth button.  The ground started to tremble a bit.  Thin
+jets of steam started coming out of the ground.
+
+I press the water button.  I felt a drip on my forehead as water
+started to fall from the ceiling.
+
+One of the scouts said "Mr Whispers said that if the machine
+activated, you'd need to get out in a hurry."
+
+I press the life button and say "Get ready to run".
+
+Tree roots started to grow rapidly out of the back of the cave.
+
+We ran.
+
+When we arrived in the cave with the snow and hands, we noticed there
+were more ropes stretched between the rocks.
+
+We struggled across the ropes.  Behind us, the root unrolled from the
+tunnel and some creatures jumped out.  They flung spines at us as we
+scrambled, but eventually we escaped back to the crater.
+
+The others were busy packing up from camp.  The parts at the top of
+the pylon where spinning around.
+
+Mr Whispers said that an elemental had been awakened and we must
+prepare to battle it.  He gave some black potions to Welly and me.
+When I drank mine, I felt a rush of power through me.  I regained my
+spell slots.
+
+Ice fell from a cliff and huge creatures came out.
+
+654XP + 160XP = 814XP

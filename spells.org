@@ -279,6 +279,20 @@ and the extra healing for the 2-action version increases by 8.
 
   “No, no, don’t go dying yet—I ain’t finished yelling at you.”
 
+** Spell 1: Leaden steps (PC-
+
+
+    "Heavy feet make slow legs."
+
+    "You're too fast.  This’ll slow you down."
+
+    "Try running with a sack of lead in your boots!"
+
+    "Feel that? That’s the weight of the world."
+
+    "Now try runnin' with a belly full of rocks!"
+
+    "Just try walkin’ in iron shoes,"
 ** Spell 1: Mending (PC-343)
 casts Mending (10m)
 
@@ -316,6 +330,19 @@ you gain a +3 item bonus to saving throws.
 
   Snaps her fingers and coats herself in flickering frost-runes that
   vanish beneath the skin.
+** Spell 1: Protector tree
+
+    "This ol' tree’s gonna take a few hits for you."
+
+    "Trees don’t mind takin' a punch, long as they get to stay
+    rooted."
+
+    "Let these branches chew on their fists before they chew on you."
+
+    "Stand close to this one, it’s tough like a winter stump."
+
+    "Let this tree take the bites while you do the stabbin'."
+
 ** Focus 1: Phase Familiar
 casts Phase Familiar (R)
 **Trigger** Your familiar would take damage.
