@@ -1,0 +1,334 @@
+** Cantrip: Clinging Ice (Hex, PC-386)
+casts Clinging Ice (1A)
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Reflex; **Duration** sustained up to 1 minute
+
+Freezing sleet and heavy snowfall collect on the target’s feet
+and legs, dealing 1d4 cold damage and other effects depending
+on its Reflex save.
+
+**Critical Success** The target is unaffected.
+**Success** The target takes half damage.
+**Failure** The target takes full damage and a –5-foot circumstance
+penalty to its Speeds until the spell ends.
+**Critical Failure** The target takes double damage and a –10-foot
+circumstance penalty to its Speeds until the spell ends.
+
+**Heightened** (+1) The damage increases by 1d4
+
+  “Freeze, twitchy thing! Let the snow choke your legs!”
+
+  Points with a clawed finger; shards of dirty ice grow from nowhere
+  and cling like biting vines.
+
+  "Snow's got claws, and she don’t let go!"
+
+  "Dance in frost, bleed like spring sap!"
+
+  "Stick, sting, snap! Let the cold eat your ankles!"
+
+  "This ice remembers where you stepped—now it bites back!"
+
+  "Fall asleep, little beetle. Winter’s here to tuck you in."
+
+  "Your feet don’t look busy—let’s fix that with a little freeze."
+** Spell 1: Gust of Wind (PC-334)
+casts Gust of Wind (2A)
+**Area** 60-foot line
+**Defense** Fortitude; **Duration** until the start of your next turn
+
+A violent wind issues forth from your palm, blowing from the
+point where you are when you Cast the Spell to the line’s opposite
+end. The wind extinguishes small non-magical fires, disperses fog
+and mist, blows objects of light Bulk or less around, and pushes
+larger objects. Large or smaller creatures in the area must attempt
+a Fortitude save. Large or smaller creatures that later move into
+the gust must attempt the save on entering.
+
+**Critical Success** The creature is unaffected.
+**Success** The creature can’t move against the wind.
+**Failure** The creature is knocked prone. If it was flying, it takes
+the effects of critical failure instead.
+**Critical Failure** The creature is pushed 30 feet in the wind’s
+direction, knocked prone, and takes 2d6 bludgeoning damage
+** Cantrip: Caustic Blast (PC-319)
+casts Caustic Blast (2A)
+**Range** 30 feet; **Area** 5-foot burst
+**Defense** basic Reflex
+
+You fling a large glob of acid that immediately detonates,
+spraying nearby creatures. Creatures in the area take 1d8
+acid damage with a basic Reflex save; on a critical failure, the
+creature also takes 1 persistent acid damage.
+
+**Heightened** (+2) The initial damage increases by 1d8, and the
+persistent damage on a critical failure increases by 1.
+** Cantrip: Detect Magic (PC-323)
+casts Detect Magic (2A)
+**Area** 30-foot emanation
+
+You send out a pulse that registers the presence of magic. You
+receive no information beyond the presence or absence of magic.
+You can choose to ignore magic you’re fully aware of, such as the
+magic items and ongoing spells of you and your allies.
+You detect illusion magic only if that magic’s effect has a
+lower rank than the rank of your detect magic spell. However,
+items that have an illusion aura but aren’t deceptive in
+appearance (such as an invisibility potion) typically are
+detected normally.
+
+**Heightened** (3rd) You learn the rank or level of the most powerful
+magical effect the spell detects, as determined by the GM.
+**Heightened** (4th) As 3rd rank, but you also pinpoint the source
+of the highest-rank magic. Like for an imprecise sense, you
+don’t learn the exact location, but can narrow down the source
+to within a 5-foot cube (or the nearest if larger than that).
+** Cantrip: Electric Arc (PC-328)
+casts Electric Arc (2A)
+**Range** 30 feet; **Targets** 1 or 2 creatures
+**Defense** basic Reflex
+
+An arc of lightning leaps from one target to another. Each
+target takes 2d4 electricity damage with a basic Reflex save.
+
+**Heightened** (+1) The damage increases by 1d4.
+
+  “Spark-toothed sky bites again!”
+
+  Claps her hands with a cackle, drawing lightning through the air like a crooked smile.
+
+  "Crack-crack—sky bite's back!"
+
+  "Here’s the storm-teeth, and they’re hungry!"
+
+  "Zzzap! That’s for touchin’ my friends!"
+
+  "Little jolt for the legs, little kiss for the bones—hold still!"
+
+  "Borrowed this from a storm that died angry!"
+
+  "Hear that buzz? That’s the sound of your luck runnin' off!"
+
+** Cantrip: Gouging Claw (PC-333)
+casts Gouging Claw (2A)
+**Range** touch; **Targets** 1 creature
+**Defense** AC
+
+You temporarily morph your limb into a clawed appendage.
+Make a melee spell attack roll against your target’s AC. If
+you hit, you deal your choice of 2d6 slashing damage or 2d6
+piercing damage, plus 2 persistent bleed damage. On a critical
+success, you deal double damage and double bleed damage.
+
+**Heightened** (+1) The damage increases by 1d6 and the
+persistent bleed damage increases by 1
+** Cantrip: Healing Plaster (SoM)
+casts Healing Plaster (1A)
+**Range** 5 feet; **Targets** a handful of dirt or mud
+**Duration** 10 minutes
+
+You purify some dirt or mud into a pliable, claylike plaster that can
+aid in clotting and healing. This restorative substance can be used in
+lieu of healer's tools for Medicine checks to Administer First Aid or
+Treat Wounds. If the plaster isn't used within the spell's duration,
+or if you Cast the Spell again before using the plaster, it reverts to
+being normal non-magical earth.
+
+  “Bit of mud, dash of moss, and a slug’s blessing—hold this to your
+  skin and groan a little.”
+
+  Scoops mud from a pouch, slaps it on like ointment, muttering
+  something about swamp mothers.
+
+  Presses muddy fingers to a wound, a faint warmth pulsing out like
+  breath through frost.
+** Cantrip: Know the Way (PC-340)
+casts Know the Way (2A)
+
+In your mind’s eye, you magically reorient yourself. You
+immediately know which direction is north (if it exists at your
+current location), and you can choose a location you were at
+within the last 24 hours and learn what direction it lies.
+Heightened (3rd) You can choose a location you were at within
+the last week.
+
+**Heightened** (7th) You can choose a location you were at
+regardless of how long ago you were there.
+** Cantrip: Puff of Poison (PC2-249)
+**Range** 10 feet; **Targets** 1 creature
+**Defense** Fortitude
+
+You exhale a shimmering cloud of toxic breath at an enemy’s
+face. The target takes 1d4 poison damage and 1d4 persistent
+poison damage, depending on its Fortitude save.
+
+**Critical Success** The creature is unaffected.
+**Success** The target takes half initial damage and no persistent
+damage.
+**Failure** The target takes full initial and persistent damage.
+**Critical Failure** The target takes double initial and persistent
+damage.
+**Heightened** (+2) The initial poison damage increases by 1d4, and
+the persistent poison damage increases by 1d4.
+** Cantrip: Rousing Splash (RoE)
+casts Rousing Splash (2A)
+**Range** 60 feet; **Targets** 1 creature
+
+You cause a splash of cold water to descend on an ally's head,
+granting some temporary vigor. The target gains 1d4 temporary Hit
+Points, which last for 1 minute. The target is then temporarily immune
+to the temporary Hit Points from rousing splash for 10 minutes. The
+target can also attempt an immediate flat check to recover from a
+single source of persistent acid or fire damage, with the DC reduction
+from appropriate assistance.
+
+**Heightened** (+1) The amount of temporary Hit Points granted increases by 1d4.
+
+  “Wake up, twitchy! Here’s some river-ghost water to get your blood
+  prickling!”
+
+  Flings a rag dripping with herb-soaked water that sizzles like it’s
+  alive.
+** Cantrip: Slashing Gust (RoE)
+casts Slashing Gust (2A)
+**Requirements** You have at least one free hand.
+**Range** 60 feet; **Targets** 1 or 2 creatures
+**Defense** AC
+
+You slash your hand through the air, channeling miniature ripples of
+air from each finger to slice your enemy. If you have two hands free,
+you can target two creatures with this spell; otherwise, you target
+one.
+
+Make a spell attack roll against each target's AC. This deals 2d4
+slashing damage. On a critical success, a target also takes 1d4
+persistent bleed damage. If you're attacking two creatures, this
+counts as two attacks for your multiple attack penalty, but the
+penalty doesn't increase until after both attacks.
+
+**Critical Success** The target takes double damage and 1d4 persistent
+bleed damage.
+**Success** The target takes full damage.
+
+**Heightened** (+1) The damage increases by 1d4, and the persistent
+damage on a critical hit increases by 1d4.
+** Cantrip: Stabilize (PC-359)
+casts Stabilize (2A)
+**Range** 30 feet; **Targets** 1 dying creature
+
+Life energy shuts death’s door. The target loses the dying condition,
+though it remains unconscious at 0 Hit Points.
+
+  “Hold still, hold still—death’s breath is near, but I’ll gum it
+  shut.”
+
+  Smears ash and spit across the wound in a strange pattern, chanting
+  in a half-sung goblin dirge.
+
+** Spell 1: Fear (PC-331)
+casts Fear (2A)
+**Range** 30 feet; **Targets** 1 creature
+**Defense** Will; **Duration** varies
+
+You plant fear in the target; it must attempt a Will save.
+Critical Success The target is unaffected.
+
+**Success** The target is frightened 1.
+**Failure** The target is frightened 2.
+**Critical Failure** The target is frightened 3 and fleeing for 1 round.
+
+**Heightened** (3rd) You can target up to five creatures.
+** Spell 1: Goblin Pox
+casts Goblin Pox (2A)
+**Range** touch; **Targets** 1 creature
+**Defense** Fortitude
+
+Your touch afflicts the target with goblin pox, an irritating
+allergenic rash. The target must attempt a Fortitude save.
+
+**Critical Success** The target is unaffected.
+**Success** The target is sickened 1.
+**Failure** The target is afflicted with goblin pox at stage 1.
+**Critical Failure** The target is afflicted with goblin pox at stage 2.
+
+**Goblin Pox** (disease) Level 1; Creatures that have the goblin
+trait and goblin dogs are immune;
+**Stage 1** sickened 1 (1 round);
+**Stage 2** sickened 1 and slowed 1 (1 round)
+**Stage 3** sickened 1 and the creature can’t reduce its sickened
+value below 1 (1 day)
+** Spell 1: Heal (PC-335)
+**Range** varies; **Targets** 1 willing living creature or 1 undead
+creature.
+
+You channel vital energy to heal the living or damage the
+undead. If the target is a willing living creature, you restore
+1d8 Hit Points. If the target is undead, you deal that amount
+of vitality damage to it, and it gets a basic Fortitude save.
+The number of actions you spend when Casting this Spell
+determines its targets, range, area, and other parameters.
+
+**1A** The spell has a range of touch.
+**2A** (concentrate) The spell has a range of 30 feet. If you’re
+healing a living creature, increase the Hit Points restored by 8.
+**3A** (concentrate) You disperse vital energy in a 30-foot
+emanation. This targets all living and undead creatures in the burst.
+
+**Heightened** (+1) The amount of healing or damage increases by 1d8,
+and the extra healing for the 2-action version increases by 8.
+
+  “No, no, don’t go dying yet—I ain’t finished yelling at you.”
+
+** Spell 1: Mending (PC-343)
+casts Mending (10m)
+
+**Cast** 10 minutes
+**Range** touch; **Targets** non-magical object of light Bulk or less
+
+You repair the target item. You restore 5 Hit Points per spell rank to
+the target, potentially removing the broken condition if this repairs
+it past the item’s Broken Threshold.  You can’t replace lost pieces or
+repair an object that’s been completely destroyed.
+
+**Heightened** (2nd) You can target a non-magical object of 1 Bulk or
+less.
+**Heightened** (3rd) You can target a non-magical object of 2 Bulk or
+less, or a magical object of 1 Bulk or less.
+** Spell 1: Mystic Armor (PC-346)
+casts Mystic Armor
+**Duration** until your next daily preparations
+
+You ward yourself with shimmering magical energy, gaining
+a +1 item bonus to AC and a maximum Dexterity modifier of
++5. While wearing mystic armor, you use your unarmored
+proficiency to calculate your AC.
+
+**Heightened** (4th) You gain a +1 item bonus to saving throws.
+**Heightened** (6th) The item bonus to AC increases to +2, and
+you gain a +1 item bonus to saving throws.
+**Heightened** (8th) The item bonus to AC increases to +2, and
+you gain a +2 item bonus to saving throws.
+**Heightened** (10th) The item bonus to AC increases to +3, and
+you gain a +3 item bonus to saving throws.
+
+  “Coat yourself in ghost-skin and owl feathers—ain’t nothing sharp
+  getting through that.”
+
+  Snaps her fingers and coats herself in flickering frost-runes that
+  vanish beneath the skin.
+** Focus 1: Phase Familiar
+casts Phase Familiar (R)
+**Trigger** Your familiar would take damage.
+**Range** 60 feet; **Targets** your familiar
+
+Your patron momentarily recalls your familiar to the ether,
+shifting it from its solid, physical form into a ghostly version
+of itself. Against the triggering damage, your familiar gains
+resistance 5 to all damage and is immune to precision damage.
+
+**Heightened** (+1) Increase the resistance by 2
+
+  “Talonface, don’t let the world hold you down—go ghosty for a bit.”
+
+  Blows white powder into the air around her hawk, who flickers and
+  vanishes with a shimmer like heat haze turned cold.

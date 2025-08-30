@@ -1,0 +1,93 @@
+* Level 1
+** Basics
+Ancestry: Goblin
+Background: Herbalist
+Class: Witch
+** Ancestry: Goblin
+Heritage: Irongut Goblin
+HP: 6
+Size: Small
+Speed: 25ft
+Attributes: +Dex +Cha +Free(Int) -Wis
+Languages (Base): Common, Goblin
+Languages (+Int): Gnomish, Halfling, Muan, Orcish
+Traits: Goblin, Humanoid
+Darkvision
+Feat: Junk Tinker
+** Heritage: Irongut Goblin
+Bonus against Fotitude saves resulting from ingestion.
+** Ancestry feat: Junk Tinker
+Make level 0 items at 1/4 price.
+** Background: Herbalist
+Attributes (Base): +Con
+Attributes (1 Free): +Int
+Skills: Nature (T), Herbalism Lore (T).
+Skill feat: Natural Medicine
+** Skill feat: Natural Medicine
+Use Nature instead of Medicine to Treat Wounds In the wilderness.
+Gain a +2 circumstance bonus to Treat Wounds using Nature, subject to
+GM.
+Skill
+** Class: Witch (PC-179)
+Key attribute: INT
+Trained in Perception
+Saving Throws: Fortitude (T), Reflex (T), Will (E)
+Attacks: simple weapons (T), unarmed attacks (T)
+Defenses: Unarmored defense (T)
+Trained in Witch class DC
+Trained in spell attack modifier
+Trained in spell DC
+Attributes (Base): Int
+Attributes (4 Free): +Str, +Con, +Dex, +Int
+Patron: Silence in Snow
+Familiar: Hawk
+Spellcasting: Prepared
+** Patron: Silence in Snow
+Spell list: Primal
+Skills (Base): Athletics (Subst from Nature)
+Skills (3): Arcana, Crafting, Deception
+Skills (Int): Intimidation, Occultism, Stealth, Survival
+Hex Cantrip: Clinging Ice
+Spell 1: Gust of wind
+Pet-Ability: Freezing Rime
+** Familiar (PC-181, PC-212)
+Animal: Hawk
+Pet-Level: Same as mine
+Pet-Perception: 3+Level (or INT+Level)
+Pet-Acrobatics: 3+Level (or INT+Level)
+Pet-Stealth: 3+Level (or INT+Level)
+Pet-Other Skills: Level
+Pet-HP: 5
+Pet-Senses: Low light
+Pet-Speed: 25
+Pet-Abilities: (2 familiar, 2 witch)
+  Patron ability (fixed, see below).
+  Flier (fixed): Speed 25.
+  Share Senses: Use familiar senses for 1m every 10m.
+  Independent: 1 action if I don't command.
+Spells: 10 C, 5 L1 + initial lesson
+  Add 2 spells per extra level
+Cantrip: Caustic Blast (PC-319)
+Cantrip: Detect Magic (PC-323)
+Cantrip: Electric Arc (PC-328)
+Cantrip: Gouging Claw (PC-333)
+Cantrip: Healing Plaster (SoM)
+Cantrip: Know the way (PC-340)
+Cantrip: Puff of Poison (PC2-249)
+Cantrip: Rousing Splash (RoE)
+Cantrip: Slashing Gust (RoE)
+Cantrip: Stabilize (PC-359)
+Spell 1: Fear (PC-331)
+Spell 1: Goblin Pox
+Spell 1: Heal (PC-335)
+Spell 1: Mending (PC-343)
+Spell 1: Mystic Armor (PC-346)
+** Hex spells
+Focus 1: Phase familiar
+** Attributes
+Str: +1
+Dex: +2
+Con: +2
+Int: +4
+Wis: -1
+Cha: +1
