@@ -1,5 +1,5 @@
 ** Cantrip: Clinging Ice (Hex, PC-386)
-casts Clinging Ice (1A)
+casts *Clinging Ice* (1 action)
 **Range** 30 feet; **Targets** 1 creature
 **Defense** Reflex; **Duration** sustained up to 1 minute
 
@@ -33,7 +33,7 @@ circumstance penalty to its Speeds until the spell ends.
 
   "Your feet don’t look busy—let’s fix that with a little freeze."
 ** Spell 1: Gust of Wind (PC-334)
-casts Gust of Wind (2A)
+casts *Gust of Wind* (2 actions)
 **Area** 60-foot line
 **Defense** Fortitude; **Duration** until the start of your next turn
 
@@ -52,7 +52,7 @@ the effects of critical failure instead.
 **Critical Failure** The creature is pushed 30 feet in the wind’s
 direction, knocked prone, and takes 2d6 bludgeoning damage
 ** Cantrip: Caustic Blast (PC-319)
-casts Caustic Blast (2A)
+casts *Caustic Blast* (2 actions)
 **Range** 30 feet; **Area** 5-foot burst
 **Defense** basic Reflex
 
@@ -64,7 +64,7 @@ creature also takes 1 persistent acid damage.
 **Heightened** (+2) The initial damage increases by 1d8, and the
 persistent damage on a critical failure increases by 1.
 ** Cantrip: Detect Magic (PC-323)
-casts Detect Magic (2A)
+casts *Detect Magic* (2 actions)
 **Area** 30-foot emanation
 
 You send out a pulse that registers the presence of magic. You
@@ -84,7 +84,7 @@ of the highest-rank magic. Like for an imprecise sense, you
 don’t learn the exact location, but can narrow down the source
 to within a 5-foot cube (or the nearest if larger than that).
 ** Cantrip: Electric Arc (PC-328)
-casts Electric Arc (2A)
+casts *Electric Arc* (2 actions)
 **Range** 30 feet; **Targets** 1 or 2 creatures
 **Defense** basic Reflex
 
@@ -110,7 +110,7 @@ target takes 2d4 electricity damage with a basic Reflex save.
   "Hear that buzz? That’s the sound of your luck runnin' off!"
 
 ** Cantrip: Gouging Claw (PC-333)
-casts Gouging Claw (2A)
+casts *Gouging Claw* (2 actions)
 **Range** touch; **Targets** 1 creature
 **Defense** AC
 
@@ -123,7 +123,7 @@ success, you deal double damage and double bleed damage.
 **Heightened** (+1) The damage increases by 1d6 and the
 persistent bleed damage increases by 1
 ** Cantrip: Healing Plaster (SoM)
-casts Healing Plaster (1A)
+casts *Healing Plaster* (1 action)
 **Range** 5 feet; **Targets** a handful of dirt or mud
 **Duration** 10 minutes
 
@@ -143,7 +143,7 @@ being normal non-magical earth.
   Presses muddy fingers to a wound, a faint warmth pulsing out like
   breath through frost.
 ** Cantrip: Know the Way (PC-340)
-casts Know the Way (2A)
+casts *Know the Way* (2 actions)
 
 In your mind’s eye, you magically reorient yourself. You
 immediately know which direction is north (if it exists at your
@@ -171,7 +171,7 @@ damage.
 **Heightened** (+2) The initial poison damage increases by 1d4, and
 the persistent poison damage increases by 1d4.
 ** Cantrip: Rousing Splash (RoE)
-casts Rousing Splash (2A)
+casts *Rousing Splash* (2 actions)
 **Range** 60 feet; **Targets** 1 creature
 
 You cause a splash of cold water to descend on an ally's head,
@@ -190,7 +190,7 @@ from appropriate assistance.
   Flings a rag dripping with herb-soaked water that sizzles like it’s
   alive.
 ** Cantrip: Slashing Gust (RoE)
-casts Slashing Gust (2A)
+casts *Slashing Gust* (2 actions)
 **Requirements** You have at least one free hand.
 **Range** 60 feet; **Targets** 1 or 2 creatures
 **Defense** AC
@@ -213,7 +213,7 @@ bleed damage.
 **Heightened** (+1) The damage increases by 1d4, and the persistent
 damage on a critical hit increases by 1d4.
 ** Cantrip: Stabilize (PC-359)
-casts Stabilize (2A)
+casts *Stabilize* (2 actions)
 **Range** 30 feet; **Targets** 1 dying creature
 
 Life energy shuts death’s door. The target loses the dying condition,
@@ -226,7 +226,7 @@ though it remains unconscious at 0 Hit Points.
   in a half-sung goblin dirge.
 
 ** Spell 1: Fear (PC-331)
-casts Fear (2A)
+casts *Fear* (2 actions)
 **Range** 30 feet; **Targets** 1 creature
 **Defense** Will; **Duration** varies
 
@@ -239,7 +239,7 @@ Critical Success The target is unaffected.
 
 **Heightened** (3rd) You can target up to five creatures.
 ** Spell 1: Goblin Pox
-casts Goblin Pox (2A)
+casts *Goblin Pox* (2 actions)
 **Range** touch; **Targets** 1 creature
 **Defense** Fortitude
 
@@ -294,7 +294,7 @@ and the extra healing for the 2-action version increases by 8.
 
     "Just try walkin’ in iron shoes,"
 ** Spell 1: Mending (PC-343)
-casts Mending (10m)
+casts *Mending* (10 minutes)
 
 **Cast** 10 minutes
 **Range** touch; **Targets** non-magical object of light Bulk or less
@@ -309,7 +309,7 @@ less.
 **Heightened** (3rd) You can target a non-magical object of 2 Bulk or
 less, or a magical object of 1 Bulk or less.
 ** Spell 1: Mystic Armor (PC-346)
-casts Mystic Armor
+casts *Mystic Armor* (2 actions)
 **Duration** until your next daily preparations
 
 You ward yourself with shimmering magical energy, gaining
@@ -344,7 +344,7 @@ you gain a +3 item bonus to saving throws.
     "Let this tree take the bites while you do the stabbin'."
 
 ** Focus 1: Phase Familiar
-casts Phase Familiar (R)
+casts *Phase Familiar* (reaction)
 **Trigger** Your familiar would take damage.
 **Range** 60 feet; **Targets** your familiar
 
